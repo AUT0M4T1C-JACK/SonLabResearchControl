@@ -38,7 +38,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028356, g: 0.2257137, b: 0.3069222, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -577,6 +576,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1577027715}
+    - target: {fileID: 4390656549093799915, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4396643289524587818, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -609,6 +612,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
       objectReference: {fileID: 1577027714}
+    - target: {fileID: 5561851702614734724, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_Name
+      value: PricesGroup
+      objectReference: {fileID: 0}
+    - target: {fileID: 5561851702614734724, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5699864744421386001, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -621,6 +632,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1577027714}
+    - target: {fileID: 6250725136990912213, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_Name
+      value: Start/sync heartbeats
+      objectReference: {fileID: 0}
     - target: {fileID: 6323427521763485749, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -641,6 +656,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1577027714}
+    - target: {fileID: 6726512011878770772, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6782603835243254172, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7648605922234523019, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -649,6 +672,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1577027714}
+    - target: {fileID: 8007516335174647650, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8032237932924286316, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -677,6 +704,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1577027714}
+    - target: {fileID: 9103050506703525402, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
+      propertyPath: m_Text
+      value: Start/sync heartbeats
+      objectReference: {fileID: 0}
     - target: {fileID: 9142966817659455553, guid: c1e57159043ab4071bfdf90daba58ef7, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
