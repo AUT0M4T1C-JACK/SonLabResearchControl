@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\SonLab\\SonLabResearchControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|c:\\sonlab\\sonlabresearchcontrol\\assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|c:\\sonlab\\sonlabresearchcontrol\\assets\\scripts\\autoflashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\autoflashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|C:\\SonLab\\SonLabResearchControl\\assets\\scripts\\controlscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|c:\\sonlab\\sonlabresearchcontrol\\assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutoFlashController.cs",
+              "DocumentMoniker": "C:\\SonLab\\SonLabResearchControl\\Assets\\Scripts\\AutoFlashController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoFlashController.cs",
+              "ToolTip": "C:\\SonLab\\SonLabResearchControl\\Assets\\Scripts\\AutoFlashController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoFlashController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwDcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T02:30:31.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Utility.cs",
               "DocumentMoniker": "C:\\SonLab\\SonLabResearchControl\\Assets\\Scripts\\Utility.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Utility.cs",
               "ToolTip": "C:\\SonLab\\SonLabResearchControl\\Assets\\Scripts\\Utility.cs",
               "RelativeToolTip": "Assets\\Scripts\\Utility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T03:29:37.426Z",
               "EditorCaption": ""
@@ -41,9 +58,10 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\ControlScript.cs",
               "ToolTip": "C:\\SonLab\\SonLabResearchControl\\Assets\\Scripts\\ControlScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\ControlScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T03:28:01.742Z"
+              "WhenOpened": "2026-03-20T03:28:01.742Z",
+              "EditorCaption": ""
             }
           ]
         }
