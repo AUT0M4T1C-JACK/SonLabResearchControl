@@ -90,4 +90,25 @@ public class ControlScript : MonoBehaviourPunCallbacks
         PhotonNetwork.RaiseEvent(Utility.HideAllPricesEventCode, null, raiseEventOptions, SendOptions.SendReliable);
         Debug.Log("Hide all prices event sent");
     }
+
+    public void LoadScene1ButtonClicked()
+    {
+        RaiseEventOptions raiseEventOptions = new RaiseEventOptions { Receivers = ReceiverGroup.Others };
+        PhotonNetwork.RaiseEvent(Utility.LoadScene1EventCode, null, raiseEventOptions, SendOptions.SendReliable);
+        Debug.Log("Load scene 1 event sent");
+    }
+
+    public void LoadScene2ButtonClicked()
+    {
+        RaiseEventOptions raiseEventOptions = new RaiseEventOptions { Receivers = ReceiverGroup.Others };
+        PhotonNetwork.RaiseEvent(Utility.LoadScene2EventCode, null, raiseEventOptions, SendOptions.SendReliable);
+        Debug.Log("Load scene 2 event sent");
+    }
+
+    public void LoadScene3ButtonClicked()
+    {
+        RaiseEventOptions raiseEventOptions = new RaiseEventOptions { Receivers = ReceiverGroup.Others };
+        PhotonNetwork.RaiseEvent(Utility.LoadScene3EventCode, null, raiseEventOptions, SendOptions.SendReliable);
+        Debug.Log("Load scene 3 event sent");
+    }
 }

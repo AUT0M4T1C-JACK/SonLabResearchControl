@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\SonLab\\SonLabResearchControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|c:\\sonlab\\sonlabresearchcontrol\\assets\\scripts\\autoflashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\autoflashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\sonlab\\sonlabresearchcontrol\\assets\\scripts\\autoflashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\autoflashcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|C:\\SonLab\\SonLabResearchControl\\assets\\scripts\\controlscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controlscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|c:\\sonlab\\sonlabresearchcontrol\\assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|C:\\SonLab\\SonLabResearchControl\\assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBD2A0DB-5B67-2927-47EA-EE4629DE6243}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Utility.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T03:29:37.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T03:29:37.426Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ControlScript.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwDEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T03:28:01.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T03:28:01.742Z"
             }
           ]
         }
